@@ -3,4 +3,4 @@
 library(vegan)
 library(tidyverse)
 
-my_data <- read_csv("...")
+my_data <- read_csv("data/data.csv")
