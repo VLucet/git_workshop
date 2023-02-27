@@ -1,6 +1,6 @@
 ## Getting started with git
 
-library(dplyr)
-library(readr)
 library(vegan)
-library(tidyr)
+library(tidyverse)
+
+my_data <- read_csv("...")
